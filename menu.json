@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Pai Tee",
+    "price": 19.90,
+    "image": "https://i.imgur.com/Moe5VWP.png"  
+  },
+  {
+    "name": "Five Blessing Apetizer Platter",
+    "price": 188,
+    "image": "https://i.imgur.com/LGCI36O.png"
+  },
+  {
+    "name": "Bejing Duck",
+    "price": 89.90,
+    "image": "https://i.imgur.com/m47it8g.png"
+  },
+  {
+    "name": "Pumpkin Cold Plate",
+    "price": 88,
+    "image": "https://i.imgur.com/Nm5rW0c.png"
+  },
+  {
+    "name": "Fried Rice",
+    "price": 12,
+    "image": "https://i.imgur.com/ib5VJJT.png"
+  },
+  {
+    "name": "Porridge",
+    "price": 15,
+    "image": "https://i.imgur.com/mFKDDVf.png"
+  },
+  {
+    "name": "Fried Noodles",
+    "price": 12.90,
+    "image": "https://i.imgur.com/d6PRx8d.png"
+  },
+  {
+    "name": "Soup Noodles",
+    "price": 18,
+    "image": "https://i.imgur.com/piVANQj.png"
+  },
+  {
+    "name": "Mapo Tofu",
+    "price": 18,
+    "image": "https://i.imgur.com/c8rwzUD.png"
+  },
+  {
+    "name": "Cucumber Salad",
+    "price": 6,
+    "image": "https://i.imgur.com/7H7weTD.png"
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "price": 25,
+    "image": "https://i.imgur.com/ZleTJRx.png"
+  },
+  {
+    "name": "Lemon Chicken",
+    "price": 20,
+    "image": "https://i.imgur.com/vet0o0L.png"
+  },
+  {
+    "name": "Pu-erh Tea",
+    "price": 10,
+    "image": ""
+  },
+  {
+    "name": "Tieguayin",
+    "price": 10,
+    "image": "https://i.imgur.com/fg6mYqD.png"
+  },
+  {
+    "name": "West Lake Longjing",
+    "price": 10,
+    "image": ""
+  },
+  {
+    "name": "Crysanthemum Tea",
+    "price": 10,
+    "image": "https://i.imgur.com/gojDVif.png"
+  },
+  {
+    "name": "Black Tea",
+    "price": 10,
+    "image": "https://i.imgur.com/97ydySo.png"
+  },
+  {
+    "name": "Jasmine Tea",
+    "price": 10,
+    "image": "g"
+  },
+  {
+    "name": "Keemun Black Tea",
+    "price": 10,
+    "image": ""
+  },
+  {
+    "name": "Juice",
+    "price": 15,
+    "image": ""
+  },
+  {
+    "name": "Ice Jelly",
+    "price": 8,
+    "image": "https://i.imgur.com/ns7adG1.png"
+  },
+  {
+    "name": "Tofu Pudding",
+    "price": 9,
+    "image": "https://i.imgur.com/6giYUcC.png"
+  }
+]
