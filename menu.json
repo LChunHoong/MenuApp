@@ -62,7 +62,7 @@
   {
     "name": "Pu-erh Tea",
     "price": 10,
-    "image": ""
+    "image": "https://i.imgur.com/97ydySo.png"
   },
   {
     "name": "Tieguayin",
@@ -72,7 +72,7 @@
   {
     "name": "West Lake Longjing",
     "price": 10,
-    "image": ""
+    "image": "https://i.imgur.com/UdMwZVY.png"
   },
   {
     "name": "Crysanthemum Tea",
@@ -87,17 +87,17 @@
   {
     "name": "Jasmine Tea",
     "price": 10,
-    "image": "g"
+    "image": "https://i.imgur.com/gojDVif.png"
   },
   {
     "name": "Keemun Black Tea",
     "price": 10,
-    "image": ""
+    "image": "https://i.imgur.com/97ydySo.png"
   },
   {
     "name": "Juice",
     "price": 15,
-    "image": ""
+    "image": "https://i.imgur.com/CPllCqk.png"
   },
   {
     "name": "Ice Jelly",
